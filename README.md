@@ -100,4 +100,4 @@ print(df.sort_values("net_gex", ascending=False).head(10))
 
 ## License
 
-Data sourced from OptionsCharts. Shared for research and educational purposes.
+Shared for research and educational purposes.
