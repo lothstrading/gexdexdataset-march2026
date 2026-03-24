@@ -2,7 +2,7 @@
 
 Intraday snapshots of SPX options **Gamma Exposure (GEX)** and **Delta Exposure (DEX)** by strike price, captured during March 11–24, 2026.
 
-Data source: [OptionsCharts](https://optionscharts.io), SPX nearest-expiry contract.
+Data: SPX nearest-expiry contract.
 
 ---
 
